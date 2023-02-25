@@ -1,2 +1,2 @@
-class payment:
+class Payment:
     id = int

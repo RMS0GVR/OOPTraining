@@ -1,4 +1,4 @@
-class car{
+class Car{
     Integer id;
     String licencse;
     String driver;

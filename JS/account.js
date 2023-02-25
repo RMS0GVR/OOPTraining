@@ -1,4 +1,4 @@
-function account() {
+function Account() {
     this.id;
     this.name;
     this.document;

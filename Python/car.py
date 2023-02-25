@@ -1,4 +1,4 @@
-class car:
+class Car:
     id         = int
     licencse   = str
     driver     = str

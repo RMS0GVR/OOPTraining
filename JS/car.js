@@ -1,4 +1,4 @@
-function car() {
+function Car() {
     this.id;
     this.licencse;
     this.driver;
